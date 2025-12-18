@@ -8,7 +8,8 @@ public class EcommerceApplication {
         SpringApplication.run(EcommerceApplication.class, args); //Run the Spring Boot applicatioN (It's the static main method)
         //All the data sent to spring boot through EcommerceApplication class...
         //Args is an array of string arguments passed to the application which helps in configuring the application at runtime.(Additional parameters)
-        //All spring boot applications start from the main method. 
+        //All spring boot applications start from the main method. +6++++
+        
         
     }
 }
